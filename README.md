@@ -9,6 +9,8 @@ We're a small, technical team tackling one of global health's hardest operationa
 | Role | Location | Type | Apply |
 |------|----------|------|-------|
 | [Senior Full-Stack Engineer](roles/senior-fullstack-engineer.md) | Remote (LATAM / Eastern Europe) | Contract, 6 months | glenn@ventoux.ai |
+| [Data Engineer](roles/data-engineer.md) | Remote (LATAM / Eastern Europe) | Contract, 6 months | glenn@ventoux.ai |
+| [PM / Training Lead](roles/pm-training-lead.md) | Remote (US / Europe) | Contract, 6 months, 50% | glenn@ventoux.ai |
 
 ## How to Apply
 
