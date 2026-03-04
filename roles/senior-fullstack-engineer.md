@@ -80,13 +80,7 @@ Our stack is purpose-built for AI-driven analytics: a backend foundation of **Py
 
 ## How to Apply
 
-Send an email to **glenn@ventoux.ai** with:
-
-- A brief intro — who you are and why this interests you
-- Your CV or LinkedIn profile
-- A link to something you've built (GitHub, portfolio, or a description of a project you're proud of)
-
-No cover letter needed. We read every application.
+**[Apply here](https://forms.gle/14EZnXy3Q9yngTn36)** — select "Senior Full-Stack Engineer" and tell us about yourself. We read every application.
 
 ---
 

@@ -8,19 +8,13 @@ We're a small, technical team tackling one of global health's hardest operationa
 
 | Role | Location | Type | Apply |
 |------|----------|------|-------|
-| [Senior Full-Stack Engineer](roles/senior-fullstack-engineer.md) | Remote (LATAM / Eastern Europe) | Contract, 6 months | glenn@ventoux.ai |
-| [Data Engineer](roles/data-engineer.md) | Remote (LATAM / Eastern Europe) | Contract, 6 months | glenn@ventoux.ai |
-| [PM / Training Lead](roles/pm-training-lead.md) | Remote (US / Europe) | Contract, 6 months, 50% | glenn@ventoux.ai |
+| [Senior Full-Stack Engineer](roles/senior-fullstack-engineer.md) | Remote (LATAM / Eastern Europe) | Contract, 6 months | [Apply](https://forms.gle/14EZnXy3Q9yngTn36) |
+| [Data Engineer](roles/data-engineer.md) | Remote (LATAM / Eastern Europe) | Contract, 6 months | [Apply](https://forms.gle/14EZnXy3Q9yngTn36) |
+| [PM / Training Lead](roles/pm-training-lead.md) | Remote (US / Europe) | Contract, 6 months, 50% | [Apply](https://forms.gle/14EZnXy3Q9yngTn36) |
 
 ## How to Apply
 
-Send an email to **glenn@ventoux.ai** with:
-
-- A brief intro — who you are and why this interests you
-- Your CV or LinkedIn profile
-- A link to something you've built (GitHub, portfolio, or a description of a project you're proud of)
-
-No cover letter needed. We read every application.
+**[Apply here](https://forms.gle/14EZnXy3Q9yngTn36)** — select the role you're interested in and tell us about yourself. We read every application.
 
 ## About Ventoux AI
 

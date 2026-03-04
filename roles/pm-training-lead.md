@@ -77,6 +77,10 @@ The engagement has clear milestones (6–8 week interim review, final delivery a
 - **Manageable commitment.** 50% allocation means you can maintain other work while contributing to something genuinely meaningful.
 - **Direct founder collaboration.** You'll work closely with someone who understands both the technology and the domain deeply.
 
+## How to Apply
+
+**[Apply here](https://forms.gle/14EZnXy3Q9yngTn36)** — select "PM / Training Lead" and tell us about yourself. We read every application.
+
 ---
 
 *Ventoux AI is committed to building a diverse team. We welcome applicants of all backgrounds and evaluate candidates solely on their ability to do exceptional work.*

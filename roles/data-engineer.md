@@ -78,6 +78,10 @@ Our data stack centers on **Python and DuckDB** for analytics, with **pandas** f
 - **Hard, interesting problems.** Harmonizing health supply chain data across dozens of countries with different systems, formats, and reporting cadences is genuinely challenging work.
 - **Direct founder collaboration.** Daily pairing with someone who built the entire codebase and knows the analytical requirements deeply.
 
+## How to Apply
+
+**[Apply here](https://forms.gle/14EZnXy3Q9yngTn36)** — select "Data Engineer" and tell us about yourself. We read every application.
+
 ---
 
 *Ventoux AI is committed to building a diverse team. We welcome applicants of all backgrounds and evaluate candidates solely on their ability to do exceptional work.*
